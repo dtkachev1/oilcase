@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=ist_pit_mb_sch.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\pcb\ist_pit.PrjPCB
+Record=SubProject|SourceDocument=ist_pit_mb_sch.MbsDoc|ProjectPath=..\pcb\ist_pit.PrjPCB
+Record=DiagramHierarchy|SourceDocument=ist_pit_mb_sch.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\..\pilars\number_1\pcb\pilar_1\pilar_1.PrjPcb
+Record=SubProject|SourceDocument=ist_pit_mb_sch.MbsDoc|ProjectPath=..\..\pilars\number_1\pcb\pilar_1\pilar_1.PrjPcb
+Record=DiagramHierarchy|SourceDocument=ist_pit_mb_sch.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\..\pilars\number_1\pcb\pilar_1\pilar_1.PrjPcb
+Record=SubProject|SourceDocument=ist_pit_mb_sch.MbsDoc|ProjectPath=..\..\pilars\number_1\pcb\pilar_1\pilar_1.PrjPcb
