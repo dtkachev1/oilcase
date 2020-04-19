@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=X? Old Footprint=CON: DG350-3.5-02P New Footprint=CON: PBD-6
+Change Component Comment : Designator=X? Old Comment=Terminal connector, 2pin, 3.5mm, 300VAC, 10A New Comment=Connector, 6pin, 2.54mm, 500VAC, 3A

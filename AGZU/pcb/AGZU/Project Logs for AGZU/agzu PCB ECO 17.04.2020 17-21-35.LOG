@@ -1,0 +1,60 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=SA? NewDesignator=SA1
+Change Component Designator: OldDesignator=VD? NewDesignator=VD1
+Change Component Designator: OldDesignator=VD? NewDesignator=VD2
+Change Component Designator: OldDesignator=VT? NewDesignator=VT1
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Component Designator: OldDesignator=X? NewDesignator=X3
+Change Component Designator: OldDesignator=X? NewDesignator=X4
+Added Component: Designator=R2(Res 2 holes)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0201JR-07100RL/311-100NCT-ND/1949006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.05W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603JR-07100RL/311-100GRCT-ND/729644"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=X5(CON: PBS-2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=VD2-2
+Added Pin To Net: NetName=GND Pin=VT1-3
+Added Pin To Net: NetName=NetVD?_1 Pin=X3-3
+Added Pin To Net: NetName=GND Pin=X5-2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetVD?_1 New Net Name=output
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=VD2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SA1-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR3_2 Pin=VT1-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetVT1_2 Pin=VT1-2
+Added Pin To Net: NetName=NetVT1_2 Pin=X3-1
+Added Net: Name=NetVT1_2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=SA1-2
+Added Pin To Net: NetName=VCC Pin=X5-1
+Added Net: Name=VCC
