@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=X?-1
+Removed Pin From Net: NetName=VCC Pin=X?-2
+Change Component Footprint: Designator=X? Old Footprint=2PLS right angle New Footprint=CON: PLS-4
+Change Component Comment : Designator=X? Old Comment=Connector, 2pin, 2.54mm, 500VAC, 3A New Comment=Connector, 4pin, 2.54mm, 500VAC, 3A
+Change component parameters: Designator = "X?"; Footprint = "CON: PLS-4"; UniqueID = "\NKHFCOJD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "PLS-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=VCC Pin=X?-3
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Pin To Net: NetName=NetX?_1 Pin=X?-4
+Added Net: Name=NetX?_1
