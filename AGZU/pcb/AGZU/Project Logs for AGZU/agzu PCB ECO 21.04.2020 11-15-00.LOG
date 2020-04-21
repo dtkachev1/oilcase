@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetVD1_1 Pin=X4-3
+Added Component: Designator=SA?(SS-3292S-L1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetVD1_1 Pin=SA?-3
+Change Net Name : Old Net Name=NetVD1_1 New Net Name=NetSA?_3
+Added Pin To Net: NetName=NetSA?_2 Pin=SA?-2
+Added Pin To Net: NetName=NetSA?_2 Pin=X4-3
+Added Net: Name=NetSA?_2
