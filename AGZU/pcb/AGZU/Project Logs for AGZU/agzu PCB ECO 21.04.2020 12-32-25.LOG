@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=X4 Old Footprint=4PLS RIGHT ANGLE New Footprint=4PLS RIGHT ANGLE 2
+Change Component Designator: OldDesignator=SA? NewDesignator=SA1
+Change Net Name : Old Net Name=NetSA?_2 New Net Name=NetSA1_2
+Change Net Name : Old Net Name=NetSA?_3 New Net Name=NetSA1_3
