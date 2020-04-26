@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=red Pin=IC1-1
+Removed Pin From Net: NetName=blue Pin=IC1-2
+Removed Pin From Net: NetName=green Pin=IC1-5
+Removed Pin From Net: NetName=GND Pin=IC1-7
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=blue Pin=J1-2
+Removed Pin From Net: NetName=red Pin=J1-3
+Removed Pin From Net: NetName=green Pin=J1-4
+Removed Member From Class: ClassName=GTES_schematic Member=IC1
+Removed Member From Class: ClassName=GTES_schematic Member=J1
+Added Component: Designator=*(PBS-4 RIGHT ANGLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(switcher)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=blue Pin=*-2
+Added Pin To Net: NetName=blue Pin=*-2
+Added Pin To Net: NetName=red Pin=*-3
+Added Pin To Net: NetName=green Pin=*-4
+Added Pin To Net: NetName=red Pin=D1-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=J2-1
+Added Net: Name=Net*_3
+Added Member To Class: ClassName=GTES_schematic Member=Component * PBS 4
+Added Member To Class: ClassName=GTES_schematic Member=Component * switcher
+Added Room: Name=GTES_schematic

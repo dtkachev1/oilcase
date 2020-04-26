@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=X1 Old Footprint=PLS-4 New Footprint=pls-4 right angle
+Change Component Designator: OldDesignator=X1 NewDesignator=X?
+Added Member To Class: ClassName=oiler_sch Member=Component D1 Red
+Added Member To Class: ClassName=oiler_sch Member=Component D2 Green
+Added Member To Class: ClassName=oiler_sch Member=Component D3 Green
+Added Member To Class: ClassName=oiler_sch Member=Component D4 Green
+Added Member To Class: ClassName=oiler_sch Member=Component hall_sensor TLE4964-5K
+Added Member To Class: ClassName=oiler_sch Member=Component R1 10 kOhms
+Added Member To Class: ClassName=oiler_sch Member=Component R2 10 kOhms
