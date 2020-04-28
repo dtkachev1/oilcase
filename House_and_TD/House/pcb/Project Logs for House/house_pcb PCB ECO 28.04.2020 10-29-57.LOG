@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=D1-1
+Added Component: Designator=*(switcher)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=*-2
+Change Net Name : Old Net Name=VCC New Net Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=D1-1
+Added Net: Name=Net*_3
+Added Member To Class: ClassName=house_sch Member=Component * S1
+Added Room: Name=house_sch
