@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=X3-1
+Removed Pin From Net: NetName=GND Pin=X4-1
+Removed Pin From Net: NetName=NetSA1_2 Pin=X4-3
+Added Component: Designator=X?(4PLS RIGHT ANGLE 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SA1-3
+Added Pin To Net: NetName=NetSA1_2 Pin=X4-1
+Added Pin To Net: NetName=NetSA1_2 Pin=X?-1
+Added Pin To Net: NetName=NetX1_2 Pin=X1-2
+Added Pin To Net: NetName=NetX1_2 Pin=X4-2
+Added Pin To Net: NetName=NetX1_2 Pin=X4-3
+Added Pin To Net: NetName=NetX1_2 Pin=X4-4
+Added Net: Name=NetX1_2
+Added Pin To Net: NetName=NetX2_4 Pin=X2-4
+Added Pin To Net: NetName=NetX2_4 Pin=X?-4
+Added Net: Name=NetX2_4

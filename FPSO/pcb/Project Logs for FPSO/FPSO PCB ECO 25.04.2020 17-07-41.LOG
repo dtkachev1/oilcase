@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetX1_2 Pin=X1-2
+Removed Pin From Net: NetName=NetX1_2 Pin=X?-1
+Added Pin To Net: NetName=NetSA1_2 Pin=X?-1
+Change Net Name : Old Net Name=NetX1_2 New Net Name=NetX4_2
