@@ -1,0 +1,5 @@
+Added Component: Designator=S1(switcher)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ1_3 Pin=S1-2
+Added Pin To Net: NetName=NetD1_1 Pin=S1-3
+Added Member To Class: ClassName=TD_sch Member=Component S1

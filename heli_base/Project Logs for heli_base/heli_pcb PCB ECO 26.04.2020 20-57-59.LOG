@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Added Component: Designator=*(PBS-4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=R1-1
+Added Net: Name=Net*_3
+Added Member To Class: ClassName=Sheet1 Member=Component * PBS 4
+Added Room: Name=Sheet1

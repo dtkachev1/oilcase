@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=blue Pin=D1-1
+Added Pin To Net: NetName=Net*_3 Pin=D1-1
+Added Member To Class: ClassName=GTES_schematic Member=Component * switcher
+Added Room: Name=GTES_schematic

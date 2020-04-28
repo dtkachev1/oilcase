@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=gnd Pin=*-1
+Removed Pin From Net: NetName=gnd Pin=*-1
+Removed Pin From Net: NetName=gnd Pin=*-4
+Removed Pin From Net: NetName=gnd Pin=X?-1
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Added Component: Designator=*(switcher)
+Add component. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=gnd1 Pin=*-1
+Added Pin To Net: NetName=gnd1 Pin=*-3
+Added Net: Name=gnd1
+Added Pin To Net: NetName=gnd4 Pin=*-4
+Added Pin To Net: NetName=gnd4 Pin=X?-1
+Added Net: Name=gnd4
+Added Pin To Net: NetName=gndf Pin=*-1
+Added Pin To Net: NetName=gndf Pin=*-2
+Added Net: Name=gndf
+Added Member To Class: ClassName=NPS_sch Member=Component * PBS 4
+Added Member To Class: ClassName=NPS_sch Member=Component * switcher
+Added Room: Name=NPS_sch
