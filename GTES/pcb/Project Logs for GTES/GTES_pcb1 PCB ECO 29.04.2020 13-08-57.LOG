@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Net*_3 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Member From Class: ClassName=GTES_schematic Member=J2
+Added Component: Designator=X?(CON: PBS-2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_3 Pin=X?-1
+Added Pin To Net: NetName=GND Pin=X?-2

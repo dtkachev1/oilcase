@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Change Component Footprint: Designator=R1 Old Footprint=RES 0402_1005 New Footprint=RES: 0603
+Change Component Footprint: Designator=R2 Old Footprint=RES 0402_1005 New Footprint=RES: 0603
+Change Component Footprint: Designator=R3 Old Footprint=RES 0402_1005 New Footprint=RES: 0603
+Change Component Comment : Designator=R1 Old Comment=0 New Comment=Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C
+Change Component Comment : Designator=R2 Old Comment=0 New Comment=Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C
+Change Component Comment : Designator=R3 Old Comment=1k New Comment=Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C
