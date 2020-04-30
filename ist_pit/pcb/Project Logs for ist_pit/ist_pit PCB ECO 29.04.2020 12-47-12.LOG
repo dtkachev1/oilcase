@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC Pin=J2-1
+Removed Pin From Net: NetName=VCC Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Change Component Footprint: Designator=J2 Old Footprint=HDRV2W90P0X254_1X2_508X254X560P New Footprint=CON: PBS-2
+Change Component Footprint: Designator=J3 Old Footprint=HDRV2W90P0X254_1X2_508X254X560P New Footprint=CON: PBS-2
+Change Component Comment : Designator=J2 Old Comment=0901200122 New Comment="׀אחתול"
+Change Component Comment : Designator=J3 Old Comment=0901200122 New Comment="׀אחתול"
