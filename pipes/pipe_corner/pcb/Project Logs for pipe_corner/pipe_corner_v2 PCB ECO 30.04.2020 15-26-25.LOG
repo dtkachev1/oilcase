@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=GND Pin=R?-2
+Removed Pin From Net: NetName=GND Pin=X?-1
+Removed Pin From Net: NetName=NetVD?_6 Pin=X?-2
+Removed Pin From Net: NetName=NetVD?_5 Pin=X?-3
+Removed Pin From Net: NetName=NetVD?_4 Pin=X?-4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Pin To Net: NetName=GND Pin=X?-1
+Added Pin To Net: NetName=GND Pin=X?-1
+Added Pin To Net: NetName=NetVD?_6 Pin=X?-2
+Added Pin To Net: NetName=NetVD?_6 Pin=X?-2
+Added Pin To Net: NetName=NetVD?_5 Pin=X?-3
+Added Pin To Net: NetName=NetVD?_5 Pin=X?-3
+Added Pin To Net: NetName=NetVD?_4 Pin=X?-4
+Added Pin To Net: NetName=NetVD?_4 Pin=X?-4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=VD?-1
+Added Pin To Net: NetName=NetR1_1 Pin=VD?-2
+Added Pin To Net: NetName=NetR1_1 Pin=VD?-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=VD?-1
+Added Pin To Net: NetName=NetR2_1 Pin=VD?-2
+Added Pin To Net: NetName=NetR2_1 Pin=VD?-3
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=v2_shc Member=Component R1 10 kOhms
+Added Member To Class: ClassName=pipe_corner_schematic Member=Component VD?
+Added Member To Class: ClassName=v2_shc Member=Component VD?
+Added Member To Class: ClassName=pipe_corner_schematic Member=Component X? Connector, 4pin, 2.54mm, 500VAC, 3A

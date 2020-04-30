@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetLED1_1 Pin=LED1-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED1-2
+Removed Pin From Net: NetName=NetLED1_3 Pin=LED1-3
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED1-4
+Removed Pin From Net: NetName=NetLED1_5 Pin=LED1-5
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED1-6
+Removed Pin From Net: NetName=NetLED1_2 Pin=R1-1
+Removed Pin From Net: NetName=NetLED1_1 Pin=X1-2
+Removed Pin From Net: NetName=NetLED1_5 Pin=X1-4
+Removed Pin From Net: NetName=NetLED1_1 Pin=X2-2
+Removed Pin From Net: NetName=NetLED1_5 Pin=X2-4
+Removed Member From Class: ClassName=pipe_nosim_schematic Member=LED1
+Change component parameters: Designator = "X1"; Footprint = "CON: PBS-4 R"; UniqueID = "\AHCRDHWS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CommentText"; Value = "мама"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbs-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "PBS-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X2"; Footprint = "4PLS RIGHT ANGLE 2"; UniqueID = "\MKXTFCET"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CommentText"; Value = "папа"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "PLS-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(RGB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=VD?-1
+Added Pin To Net: NetName=NetLED1_1 Pin=VD?-2
+Added Pin To Net: NetName=NetLED1_1 Pin=VD?-3
+Added Pin To Net: NetName=NetLED1_2 Pin=VD?-4
+Added Pin To Net: NetName=NetLED1_3 Pin=VD?-5
+Added Pin To Net: NetName=NetLED1_5 Pin=VD?-6
+Added Pin To Net: NetName=NetLED1_5 Pin=X1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=X1-4
+Added Pin To Net: NetName=NetLED1_5 Pin=X2-2
+Added Pin To Net: NetName=NetLED1_2 Pin=X2-4
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetVD?_4
+Change Net Name : Old Net Name=NetLED1_3 New Net Name=NetVD?_5
+Change Net Name : Old Net Name=NetLED1_5 New Net Name=NetVD?_6
+Added Member To Class: ClassName=pipe_nosim_schematic Member=Component VD?
+Added Member To Class: ClassName=pipe_nosim_schematic Member=Component X1 Connector, 4pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=pipe_nosim_schematic Member=Component X2 Connector, 4pin, 2.54mm, 500VAC, 3A
+Added Room: Name=pipe_nosim_schematic

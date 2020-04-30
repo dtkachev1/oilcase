@@ -1,0 +1,22 @@
+Added Component: Designator=VD?(RGB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD?(RGB)
+Add component. Clean all parameters for all variants
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-2
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-3
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetVD?_2 Pin=VD?-2
+Added Pin To Net: NetName=NetVD?_2 Pin=VD?-3
+Added Net: Name=NetVD?_2
+Added Pin To Net: NetName=NetVD?_4 Pin=VD?-4
+Added Net: Name=NetVD?_4
+Added Pin To Net: NetName=NetVD?_5 Pin=VD?-5
+Added Net: Name=NetVD?_5
+Added Pin To Net: NetName=NetVD?_6 Pin=VD?-6
+Added Net: Name=NetVD?_6
+Added Pin To Net: NetName=track Pin=VD?-1
+Added Net: Name=track
+Added Class: Name=pipe_corner_schematic
+Added Room: Name=pipe_corner_schematic
