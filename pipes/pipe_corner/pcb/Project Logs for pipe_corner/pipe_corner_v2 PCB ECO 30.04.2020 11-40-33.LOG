@@ -1,0 +1,78 @@
+Added Component: Designator=R?(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603JR-07100RL/311-100GRCT-ND/729644"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603JR-07100RL/311-100GRCT-ND/729644"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(RGB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD?(RGB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X?(4PLS RIGHT ANGLE 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = "Input"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: PBS-4 R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = "Output"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbs-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-1
+Added Pin To Net: NetName=track Pin=VD?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-2
+Added Pin To Net: NetName=NetVD?_2 Pin=VD?-2
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-3
+Added Pin To Net: NetName=NetVD?_2 Pin=VD?-3
+Added Pin To Net: NetName=NetVD?_4 Pin=VD?-4
+Added Pin To Net: NetName=NetVD?_5 Pin=VD?-5
+Added Pin To Net: NetName=NetVD?_6 Pin=VD?-6
+Added Pin To Net: NetName=GND Pin=X?-1
+Added Pin To Net: NetName=GND Pin=X?-1
+Added Pin To Net: NetName=NetVD?_6 Pin=X?-2
+Added Pin To Net: NetName=NetVD?_6 Pin=X?-2
+Added Pin To Net: NetName=NetVD?_5 Pin=X?-3
+Added Pin To Net: NetName=NetVD?_5 Pin=X?-3
+Added Pin To Net: NetName=NetVD?_4 Pin=X?-4
+Added Pin To Net: NetName=NetVD?_4 Pin=X?-4
+Added Member To Class: ClassName=pipe_corner_schematic Member=Component R? Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=pipe_corner_schematic Member=Component R? Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=pipe_corner_schematic Member=Component VD?
+Added Member To Class: ClassName=pipe_corner_schematic Member=Component VD?
+Added Member To Class: ClassName=pipe_corner_schematic Member=Component X? Connector, 4pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=pipe_corner_schematic Member=Component X? Connector, 4pin, 2.54mm, 500VAC, 3A

@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=POGJHDIX
 
 [Document3]
-DocumentPath=pipe_corner_v2.PcbDoc
+DocumentPath=v3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ROTIMFRC
+DocumentUniqueId=WPYMCBRQ
 
 [Configuration1]
 Name=Sources
