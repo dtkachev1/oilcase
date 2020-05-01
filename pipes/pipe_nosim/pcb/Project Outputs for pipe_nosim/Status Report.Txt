@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [pipe_nosim_pcb.PcbDoc]
+   Generated File[pipe_nosim_pcb.TXT]
+   Generated File[pipe_nosim_pcb.LDP]
+   Generated File[pipe_nosim_pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:30:11 On 01.05.2020

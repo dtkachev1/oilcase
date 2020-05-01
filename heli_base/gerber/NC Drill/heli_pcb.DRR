@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: heli_pcb.PcbDoc   01.05.2020  9:19:26
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : heli_pcb.TXT
+ASCII RectHoles File : heli_pcb-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      1.1mm (43mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T2      2mm (79mil)                                               Rectangle         1         PTH        4.50mm (0.18inch)
+T3      4.8mm (189mil)                                            Round             4         PTH        123.00mm (4.84inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              9
+
+Total Processing Time (hh:mm:ss) : 00:00:00

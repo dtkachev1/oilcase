@@ -1,0 +1,133 @@
+*************************************************************
+FileName = separ 3 phase.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : separ 3 phase.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : separ 3 phase.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : separ 3 phase.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : separ 3 phase.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : separ 3 phase.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : separ 3 phase.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D24
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : separ 3 phase.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D25
+*************************************************************
+

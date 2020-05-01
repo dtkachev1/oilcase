@@ -1,0 +1,124 @@
+*************************************************************
+FileName = gpz.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : gpz.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : gpz.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : gpz.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : gpz.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : gpz.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : gpz.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : gpz.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D21
+*************************************************************
+

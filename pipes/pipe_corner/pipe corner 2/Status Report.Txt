@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [v3.PcbDoc]
+   Generated File[v3.GTL]
+   Generated File[v3.GBL]
+   Generated File[v3.GTO]
+   Generated File[v3.GTS]
+   Generated File[v3.GBS]
+   Generated File[v3.GBO]
+   Generated File[v3.GKO]
+   Generated File[v3.RUL]
+   Generated File[v3.EXTREP]
+   Generated File[v3.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 10:53:42 On 01.05.2020

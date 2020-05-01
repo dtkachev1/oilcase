@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [GTES_pcb1.PcbDoc]
+   Generated File[GTES_pcb1.TXT]
+   Generated File[GTES_pcb1-RectHoles.TXT]
+   Generated File[GTES_pcb1.LDP]
+   Generated File[GTES_pcb1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:15:23 On 01.05.2020

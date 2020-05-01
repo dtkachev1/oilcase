@@ -1,0 +1,113 @@
+*************************************************************
+FileName = pilar_1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : pilar_1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : pilar_1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : pilar_1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : pilar_1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : pilar_1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : pilar_1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D18
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : pilar_1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+

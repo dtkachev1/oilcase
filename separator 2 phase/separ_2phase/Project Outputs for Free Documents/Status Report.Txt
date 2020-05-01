@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [separ_2phase.PcbDoc]
+   Generated File[separ_2phase.TXT]
+   Generated File[separ_2phase-RectHoles.TXT]
+   Generated File[separ_2phase.LDP]
+   Generated File[separ_2phase.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:01:58 On 01.05.2020

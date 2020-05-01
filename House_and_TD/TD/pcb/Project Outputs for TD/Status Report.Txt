@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TD_pcb.PcbDoc]
+   Generated File[TD_pcb.TXT]
+   Generated File[TD_pcb-RectHoles.TXT]
+   Generated File[TD_pcb.LDP]
+   Generated File[TD_pcb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:26:23 On 01.05.2020

@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FPSO.PcbDoc   01.05.2020  9:10:46
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FPSO.TXT
+ASCII RectHoles File : FPSO-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      1.1mm (43mil)                                             Round             28        PTH        171.61mm (6.76inch)
+T2      2mm (79mil)                                               Rectangle         1         PTH        4.50mm (0.18inch)
+T3      3mm (118mil)                                              Round             4         PTH        71.00mm (2.80inch)
+T4      4.8mm (189mil)                                            Round             4         PTH        159.50mm (6.28inch)
+T5      0.9mm (35mil)                                             Round             2         NPTH       3.00mm (0.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              39
+
+Total Processing Time (hh:mm:ss) : 00:00:00

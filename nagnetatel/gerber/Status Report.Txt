@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [nagnet.PcbDoc]
+   Generated File[nagnet.GTL]
+   Generated File[nagnet.GBL]
+   Generated File[nagnet.GTO]
+   Generated File[nagnet.GTS]
+   Generated File[nagnet.GBS]
+   Generated File[nagnet.GBO]
+   Generated File[nagnet.GKO]
+   Generated File[nagnet.RUL]
+   Generated File[nagnet.EXTREP]
+   Generated File[nagnet.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 9:32:04 On 01.05.2020

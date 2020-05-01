@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [heli_pcb.PcbDoc]
+   Generated File[heli_pcb.GTL]
+   Generated File[heli_pcb.GBL]
+   Generated File[heli_pcb.GTO]
+   Generated File[heli_pcb.GTS]
+   Generated File[heli_pcb.GBS]
+   Generated File[heli_pcb.GBO]
+   Generated File[heli_pcb.GKO]
+   Generated File[heli_pcb.RUL]
+   Generated File[heli_pcb.EXTREP]
+   Generated File[heli_pcb.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 9:19:30 On 01.05.2020

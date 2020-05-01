@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ist_pit.PcbDoc   01.05.2020  9:29:25
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ist_pit.TXT
+ASCII RectHoles File : ist_pit-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             2         PTH        4.83mm (0.19inch)
+T2      0.7mm (28mil)                                             Round             2         PTH        4.85mm (0.19inch)
+T3      1.1mm (43mil)                                             Round             4         PTH        35.21mm (1.39inch)
+T4      1.76mm (69mil)                                            Round             2         PTH        7.25mm (0.29inch)
+T5      2mm (79mil)                                               Rectangle         2         PTH        82.19mm (3.24inch)
+T6      4.8mm (189mil)                                            Round             3         PTH        100.00mm (3.94inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              15
+
+Total Processing Time (hh:mm:ss) : 00:00:00

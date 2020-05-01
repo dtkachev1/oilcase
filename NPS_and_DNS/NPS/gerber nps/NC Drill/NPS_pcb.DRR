@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NPS_pcb.PcbDoc   01.05.2020  9:38:36
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NPS_pcb.TXT
+ASCII RectHoles File : NPS_pcb-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      1.1mm (43mil)                                             Round             12        PTH        82.59mm (3.25inch)
+T2      2mm (79mil)                                               Rectangle         1         PTH        4.50mm (0.18inch)
+T3      3mm (118mil)                                              Round             4         PTH        71.00mm (2.80inch)
+T4      4.8mm (189mil)                                            Round             4         PTH        123.00mm (4.84inch)
+T5      0.9mm (35mil)                                             Round             2         NPTH       3.00mm (0.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              23
+
+Total Processing Time (hh:mm:ss) : 00:00:00

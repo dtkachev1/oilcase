@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [COMPRESSOR_pcb.PcbDoc]
+   Generated File[COMPRESSOR_pcb.GTL]
+   Generated File[COMPRESSOR_pcb.GBL]
+   Generated File[COMPRESSOR_pcb.GTO]
+   Generated File[COMPRESSOR_pcb.GTS]
+   Generated File[COMPRESSOR_pcb.GBS]
+   Generated File[COMPRESSOR_pcb.GBO]
+   Generated File[COMPRESSOR_pcb.GKO]
+   Generated File[COMPRESSOR_pcb.RUL]
+   Generated File[COMPRESSOR_pcb.EXTREP]
+   Generated File[COMPRESSOR_pcb.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 9:46:38 On 01.05.2020

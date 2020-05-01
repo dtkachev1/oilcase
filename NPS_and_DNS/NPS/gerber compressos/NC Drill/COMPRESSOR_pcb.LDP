@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\aleha\Documents\GitHub\oilcase\NPS_and_DNS\NPS\pcb\COMPRESSOR_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=compressor_pcb.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=compressor_pcb-rectholes.txt|DrillLayers=gtl,gbl

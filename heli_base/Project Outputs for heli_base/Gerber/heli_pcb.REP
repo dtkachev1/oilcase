@@ -1,0 +1,112 @@
+*************************************************************
+FileName = heli_pcb.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : heli_pcb.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : heli_pcb.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : heli_pcb.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : heli_pcb.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : heli_pcb.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : heli_pcb.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : heli_pcb.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D17
+*************************************************************
+

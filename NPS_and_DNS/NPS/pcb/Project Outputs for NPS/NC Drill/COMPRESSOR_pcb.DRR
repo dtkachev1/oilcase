@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: COMPRESSOR_pcb.PcbDoc   01.05.2020  9:46:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : COMPRESSOR_pcb.TXT
+ASCII RectHoles File : COMPRESSOR_pcb-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      1.1mm (43mil)                                             Round             12        PTH        90.03mm (3.54inch)
+T2      2mm (79mil)                                               Rectangle         1         PTH        4.50mm (0.18inch)
+T3      3mm (118mil)                                              Round             4         PTH        66.00mm (2.60inch)
+T4      4.8mm (189mil)                                            Round             4         PTH        123.00mm (4.84inch)
+T5      0.9mm (35mil)                                             Round             2         NPTH       3.00mm (0.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              23
+
+Total Processing Time (hh:mm:ss) : 00:00:00

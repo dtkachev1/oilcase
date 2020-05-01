@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [pipe_sim_pcb.PcbDoc]
+   Generated File[pipe_sim_pcb.GTL]
+   Generated File[pipe_sim_pcb.GBL]
+   Generated File[pipe_sim_pcb.GTO]
+   Generated File[pipe_sim_pcb.GTS]
+   Generated File[pipe_sim_pcb.GBS]
+   Generated File[pipe_sim_pcb.GBO]
+   Generated File[pipe_sim_pcb.GKO]
+   Generated File[pipe_sim_pcb.RUL]
+   Generated File[pipe_sim_pcb.EXTREP]
+   Generated File[pipe_sim_pcb.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 10:59:44 On 01.05.2020

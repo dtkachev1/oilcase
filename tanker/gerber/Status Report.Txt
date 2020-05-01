@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [tanker.PcbDoc]
+   Generated File[tanker.GTL]
+   Generated File[tanker.GBL]
+   Generated File[tanker.GTO]
+   Generated File[tanker.GTS]
+   Generated File[tanker.GBS]
+   Generated File[tanker.GBO]
+   Generated File[tanker.GKO]
+   Generated File[tanker.RUL]
+   Generated File[tanker.EXTREP]
+   Generated File[tanker.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 11:05:50 On 01.05.2020

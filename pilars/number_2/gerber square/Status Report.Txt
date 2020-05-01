@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [square_board.PcbDoc]
+   Generated File[square_board.GTL]
+   Generated File[square_board.GBL]
+   Generated File[square_board.GTO]
+   Generated File[square_board.GTS]
+   Generated File[square_board.GBS]
+   Generated File[square_board.GBO]
+   Generated File[square_board.GKO]
+   Generated File[square_board.RUL]
+   Generated File[square_board.EXTREP]
+   Generated File[square_board.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 10:46:33 On 01.05.2020

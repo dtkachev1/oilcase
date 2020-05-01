@@ -1,0 +1,9 @@
+G04:AMPARAMS|DCode=28|XSize=0.2032mm|YSize=0.2032mm|CornerRadius=0mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=0.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD28*
+21,1,0.2032,0.2032,0,0,0.0*
+21,1,0.2032,0.2032,0,0,0.0*
+1,1,0.0000,0.1016,-0.1016*
+1,1,0.0000,-0.1016,-0.1016*
+1,1,0.0000,-0.1016,0.1016*
+1,1,0.0000,0.1016,0.1016*
+%

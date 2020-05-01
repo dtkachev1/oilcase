@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [gpz.PcbDoc]
+   Generated File[gpz.GTL]
+   Generated File[gpz.GBL]
+   Generated File[gpz.GTO]
+   Generated File[gpz.GTS]
+   Generated File[gpz.GBS]
+   Generated File[gpz.GBO]
+   Generated File[gpz.GKO]
+   Generated File[gpz.RUL]
+   Generated File[gpz.EXTREP]
+   Generated File[gpz.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 9:13:29 On 01.05.2020

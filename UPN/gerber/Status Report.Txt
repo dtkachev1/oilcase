@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UPN.PcbDoc]
+   Generated File[UPN.TXT]
+   Generated File[UPN-RectHoles.TXT]
+   Generated File[UPN.LDP]
+   Generated File[UPN.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:11:21 On 01.05.2020

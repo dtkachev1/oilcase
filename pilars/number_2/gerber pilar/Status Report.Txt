@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [pilar_2.PcbDoc]
+   Generated File[pilar_2.GTL]
+   Generated File[pilar_2.GBL]
+   Generated File[pilar_2.GTO]
+   Generated File[pilar_2.GTS]
+   Generated File[pilar_2.GBS]
+   Generated File[pilar_2.GBO]
+   Generated File[pilar_2.GKO]
+   Generated File[pilar_2.RUL]
+   Generated File[pilar_2.EXTREP]
+   Generated File[pilar_2.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 10:48:16 On 01.05.2020

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\aleha\Documents\GitHub\oilcase\separator 2 phase\separ_2phase\separ_2phase.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=separ_2phase.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=separ_2phase-rectholes.txt|DrillLayers=gtl,gbl

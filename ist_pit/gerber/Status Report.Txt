@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ist_pit.PcbDoc]
+   Generated File[ist_pit.TXT]
+   Generated File[ist_pit-RectHoles.TXT]
+   Generated File[ist_pit.LDP]
+   Generated File[ist_pit.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:29:26 On 01.05.2020
