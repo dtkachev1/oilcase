@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: white.PcbDoc   03.05.2020  14:39:51
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : white.TXT
+ASCII RectHoles File : white-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             279       PTH        1268.08mm (49.92inch)
+T2      0.762mm (30mil)                                           Round             2         PTH        235.97mm (9.29inch)
+T3      1.1mm (43mil)                                             Round             142       PTH        1190.22mm (46.86inch)
+T4      2mm (79mil)                                               Rectangle         7         PTH        834.32mm (32.85inch)
+T5      3mm (118mil)                                              Round             32        PTH        964.61mm (37.98inch)
+T6      4.8mm (189mil)                                            Round             28        PTH        861.94mm (33.93inch)
+T7      0.9mm (35mil)                                             Round             14        NPTH       565.55mm (22.27inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              504
+
+Total Processing Time (hh:mm:ss) : 00:00:01

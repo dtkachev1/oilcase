@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: white_4.PcbDoc   03.05.2020  14:37:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : white_4.TXT
+ASCII RectHoles File : white_4-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             3         PTH        23.55mm (0.93inch)
+T2      0.5mm (20mil)                                             Round             120       PTH        852.86mm (33.58inch)
+T3      0.711mm (28mil)                                           Round             4         PTH        23.45mm (0.92inch)
+T4      0.762mm (30mil)                                           Round             2         PTH        208.15mm (8.20inch)
+T5      0.9mm (35mil)                                             Round             2         PTH        8.00mm (0.31inch)
+T6      1mm (39mil)                                               Round             2         PTH        20.94mm (0.82inch)
+T7      1.1mm (43mil)                                             Round             68        PTH        792.53mm (31.20inch)
+T8      2mm (79mil)                                               Rectangle         5         PTH        582.08mm (22.92inch)
+T9      3mm (118mil)                                              Round             24        PTH        603.16mm (23.75inch)
+T10     4.8mm (189mil)                                            Round             24        PTH        685.76mm (27.00inch)
+T11     0.9mm (35mil)                                             Round             12        NPTH       383.83mm (15.11inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              266
+
+Total Processing Time (hh:mm:ss) : 00:00:00
