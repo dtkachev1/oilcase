@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [white.PcbDoc]
+   Generated File[white.GTL]
+   Generated File[white.GBL]
+   Generated File[white.GTO]
+   Generated File[white.GTS]
+   Generated File[white.GBS]
+   Generated File[white.GBO]
+   Generated File[white.GKO]
+   Generated File[white.RUL]
+   Generated File[white.EXTREP]
+   Generated File[white.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 14:40:09 On 03.05.2020
