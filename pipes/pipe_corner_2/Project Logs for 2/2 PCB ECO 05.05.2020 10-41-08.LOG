@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=track Pin=R?-1
+Removed Pin From Net: NetName=track Pin=VD?-2
+Removed Pin From Net: NetName=track Pin=VD?-3
+Removed Pin From Net: NetName=gnd Pin=VD?-4
+Removed Pin From Net: NetName=gnd Pin=X?-1
+Removed Pin From Net: NetName=gnd Pin=X?-1
+Removed Member From Class: ClassName=pipe_corner_schematic Member=X?
+Added Component: Designator=*(PBD-4-RIGHT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PLD-4-R)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=gnd Pin=*-1
+Added Pin To Net: NetName=gnd Pin=*-1
+Added Pin To Net: NetName=gnd Pin=R?-2
+Added Pin To Net: NetName=NetVD?_2 Pin=VD?-2
+Added Pin To Net: NetName=NetVD?_2 Pin=VD?-3
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=VD?-6
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=VD?-5
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=VD?-4
+Added Net: Name=Net*_4
+Change Class Name : Old Net Name=pipe_corner_schematic New Net Name=2
+Added Member To Class: ClassName=2 Member=Component * PBD-4
+Added Member To Class: ClassName=2 Member=Component * PBD-4
+Added Member To Class: ClassName=2 Member=Component R? Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=2 Member=Component VD?
