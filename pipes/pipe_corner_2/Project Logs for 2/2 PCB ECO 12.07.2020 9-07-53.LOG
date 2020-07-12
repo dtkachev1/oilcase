@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=gnd Pin=*-1
+Removed Pin From Net: NetName=Net*_3 Pin=VD?-5
+Removed Pin From Net: NetName=Net*_2 Pin=VD?-6
+Added Pin To Net: NetName=gnd Pin=*-4
+Added Pin To Net: NetName=Net*_2 Pin=VD?-4
+Added Pin To Net: NetName=Net*_3 Pin=VD?-6
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-4
+Added Pin To Net: NetName=Net*_1 Pin=VD?-5
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=2 Member=Component * PBD-4
+Added Member To Class: ClassName=2 Member=Component R? Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=2 Member=Component VD?

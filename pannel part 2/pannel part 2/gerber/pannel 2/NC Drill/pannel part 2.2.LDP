@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\aleha\Documents\GitHub\oilcase\pannel part 2\pannel part 2\pannel part 2.2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pannel part 2.2.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pannel part 2.2-rectholes.txt|DrillLayers=gtl,gbl

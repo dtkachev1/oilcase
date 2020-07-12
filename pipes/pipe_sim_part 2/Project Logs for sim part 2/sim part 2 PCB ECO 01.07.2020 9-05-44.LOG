@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Net*_4 Pin=VD?-4
+Removed Pin From Net: NetName=Net*_3 Pin=VD?-5
+Removed Pin From Net: NetName=Net*_2 Pin=VD?-6
+Added Pin To Net: NetName=Net*_2 Pin=VD?-4
+Added Pin To Net: NetName=Net*_4 Pin=VD?-5
+Added Pin To Net: NetName=Net*_3 Pin=VD?-6
+Added Member To Class: ClassName=sim part 2 Member=Component * PBD-4

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-4
+Added Pin To Net: NetName=Net*_1 Pin=VD?-5
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=sim part 2 Member=Component * PBD-4

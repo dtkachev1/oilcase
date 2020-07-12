@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [pannel part 2.2.PcbDoc]
+   Generated File[pannel part 2.2.GTL]
+   Generated File[pannel part 2.2.GBL]
+   Generated File[pannel part 2.2.GTO]
+   Generated File[pannel part 2.2.GTS]
+   Generated File[pannel part 2.2.GBS]
+   Generated File[pannel part 2.2.GBO]
+   Generated File[pannel part 2.2.GKO]
+   Generated File[pannel part 2.2.RUL]
+   Generated File[pannel part 2.2.EXTREP]
+   Generated File[pannel part 2.2.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 14:36:48 On 12.07.2020
