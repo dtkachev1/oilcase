@@ -1,0 +1,29 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [pilar_3_2 vers.PrjPcb]
+   Generated File[pilar_3_2 vers_Copper_Signal_Top.gbr]
+   Generated File[pilar_3_2 vers_Copper_Signal_Bot.gbr]
+   Generated File[pilar_3_2 vers_Pads_Bot.gbr]
+   Generated File[pilar_3_2 vers_Pads_Top.gbr]
+   Generated File[pilar_3_2 vers_Legend_Bot.gbr]
+   Generated File[pilar_3_2 vers_Soldermask_Bot.gbr]
+   Generated File[pilar_3_2 vers_Paste_Bot.gbr]
+   Generated File[pilar_3_2 vers_Legend_Top.gbr]
+   Generated File[pilar_3_2 vers_Paste_Top.gbr]
+   Generated File[pilar_3_2 vers_Soldermask_Top.gbr]
+   Generated File[pilar_3_2 vers_Keep-out.gbr]
+   Generated File[pilar_3_2 vers_Mechanical_13.gbr]
+   Generated File[pilar_3_2 vers_Mechanical_1.gbr]
+   Generated File[pilar_3_2 vers_Mechanical_15.gbr]
+   Generated File[pilar_3_2 vers_Profile.gbr]
+   Generated File[pilar_3_2 vers_Drawing_1.gbr]
+   Generated File[pilar_3_2 vers_Drillmap_1.gbr]
+   Generated File[pilar_3_2 vers.RUL]
+   Generated File[pilar_3_2 vers.EXTREP]
+   Generated File[pilar_3_2 vers.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 12:14:18 On 31.10.2020
