@@ -1,6 +1,6 @@
 Output: Gerber Files
 Type  : Gerber
-From  : PCB Document [pilar_3_2 vers.PcbDoc]
+From  : Variant [[No Variations]] of PCB Document [pilar_3_2 vers.PcbDoc]
    Generated File[pilar_3_2 vers.GTO]
    Generated File[pilar_3_2 vers.GTP]
    Generated File[pilar_3_2 vers.GTS]
@@ -18,4 +18,4 @@ From  : PCB Document [pilar_3_2 vers.PcbDoc]
 Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 14:01:58 On 31.10.2020
+Finished Output Generation At 12:57:37 On 31.10.2020

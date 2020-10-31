@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [sim part 2.PcbDoc]
+   Generated File[sim part 2.TXT]
+   Generated File[sim part 2.LDP]
+   Generated File[sim part 2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:31:03 On 31.10.2020
